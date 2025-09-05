@@ -1,0 +1,21 @@
+# Core Web UI
+    streamlit==1.35.0
+
+# Transformers and Language Models
+transformers==4.41.2
+torch==2.3.0
+torchaudio
+accelerate==0.30.1
+safetensors==0.4.2
+sentencepiece==0.2.0
+
+# PDF & Image Processing
+PyPDF2==3.0.1
+Pillow==10.3.0
+fpdf
+
+# Hugging Face model hub access
+huggingface_hub==0.23.3
+
+# Utility
+tqdm==4.66.4
